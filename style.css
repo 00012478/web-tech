@@ -48,7 +48,7 @@ h1 {
 
 h2 {
     font-size: 2.5rem;
-    color: #f69314;
+    color: #480e7e;
     margin-bottom: 1rem;
     line-height: 1.2;
 }
@@ -73,7 +73,7 @@ p {
 }
 
 button.rounded {
-    background: #f69314;
+    background: hsl(266, 87%, 44%);
     border: none;
     color: #fff;
     font-size: 16px;
@@ -162,7 +162,7 @@ header ul li a.active {
 
 header ul.is-sticky li a:hover,
 header ul.is-sticky li a.active {
-    color: #f69314;
+    color: #2314f6;
 }
 /* end: header styles */
 
@@ -228,7 +228,7 @@ header ul.is-sticky li a.active {
 }
 
 #how-it-works span.fas {
-    color: #f69314;
+    color: #160479;
     font-size: 35px;
 }
 /* end: how it works styles */
@@ -325,7 +325,7 @@ header ul.is-sticky li a.active {
 #agents {
     margin: 4rem 0 6rem;
     padding: 0 0 6rem;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgb(177, 109, 109);
 }
 
 #agents p.large-paragraph {
@@ -405,7 +405,7 @@ header ul.is-sticky li a.active {
 }
 
 #services .flex > div .fas {
-    color: #f69314;
+    color: #2f1281;
     font-size: 40px;
     float: left;
     margin-top: 15px;
@@ -419,7 +419,7 @@ header ul.is-sticky li a.active {
 }
 
 #services .flex > div a {
-    color: #f69314;
+    color: #b81c1c;
     text-decoration: none;
 }
 
@@ -555,7 +555,7 @@ header ul.is-sticky li a.active {
 
 #address-container a {
     text-decoration: none;
-    color: #f69314;
+    color: #b12121;
 }
 
 #address-container a:hover {
@@ -745,7 +745,7 @@ footer small a:hover {
 
     nav ul li a.active,
     nav ul li a:hover {
-        color: #f69314;
+        color: #2711a0;
     }
 }
 
