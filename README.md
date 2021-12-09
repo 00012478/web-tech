@@ -1,7 +1,7 @@
 #GITHUB link:
 https://github.com/00012478/web-tech.git
 #Site Link:
-
+https://frosty-brattain-d63507.netlify.app
 
 # About Website
 This website provides people with all necessary information regarding real estate. In addition, people can easily find out and get answers to their questions, get information from agents, and look for houses they need. 
