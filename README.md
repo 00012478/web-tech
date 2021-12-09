@@ -15,4 +15,4 @@ There are 6 pages in a main menu:
 4 About
 5 News
 6 Contact
-I included most important keywords in the description, so that people could have access to them. One of the main goals was to approach the description from the perspective of a potential customer. I tried to find things that are unique about my business and may inspire a customer to click my link.
+I included most important keywords in the description, so that people could have access to them. One of the main goals was to approach the description from the perspective of a potential customer. I tried to find things that are unique about my business and may inspire a customer to click my link. I tried to avoid misleading customers, using my description to explain my site, not to make false claims. All in all, everything works properly, no errors occured during test.
